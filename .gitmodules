@@ -1,0 +1,12 @@
+[submodule "protoc-gen-go-triple"]
+	path = protoc-gen-go-triple
+	url = git@github.com:dubbogo/protoc-gen-go-triple.git
+[submodule "protoc-gen-go-hessian2"]
+	path = protoc-gen-go-hessian2
+	url = git@github.com:dubbogo/protoc-gen-go-hessian2.git
+[submodule "protoc-gen-go-dubbo"]
+	path = protoc-gen-go-dubbo
+	url = git@github.com:dubbogo/protoc-gen-go-dubbo.git
+[submodule "dubbo-java2proto"]
+	path = dubbo-java2proto
+	url = git@github.com:dubbogo/dubbo-java2proto.git
